@@ -59,7 +59,7 @@ class _StateFulPageState extends State<StateFulPage> {
           });
           print(index);
         },
-        child: Icon(Icons.add),
+        child: Icon(Icons.next_plan),
       ),
     );
   }
